@@ -1,0 +1,17 @@
+.plusBtn:hover {
+	-fx-background-color: #4dcb65;
+}
+.plusBtn {
+	-fx-background-radius: 35px;
+	-fx-border-radius: 35px;
+	-fx-background-color: #3cba54;
+}
+
+.graphBtn {
+	-fx-background-color: #ffd3b6
+
+}
+
+.graphBtn:hover {
+	-fx-background-color: #ffe3c6
+}
